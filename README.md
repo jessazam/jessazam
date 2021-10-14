@@ -37,6 +37,6 @@
 
 #### - When I'm not learning I like...
 - ⚡️  Swimming 
-- ⚡️  Watching all sorts of media (Armchair film and tv-show expert!)
+- ⚡️  Watching all sorts of media (Films and tv-shows armchair expert!)
 - ⚡️  Reading Light Novels and Sci-Fi
 - ⚡️  Basketball 
