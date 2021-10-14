@@ -58,6 +58,6 @@ I’m currently working on Front-end projects for small businesses. I’m lookin
 
 ### - When I'm not learning I like...
 - ⚡️  Swimming 
-- ⚡️  Watching all sorts of media - Armchair film and tv-show expert!
+- ⚡️  Watching all sorts of media (Armchair film and tv-show expert!)
 - ⚡️  Reading Light Novels and Sci-Fi
 - ⚡️  Basketball 
