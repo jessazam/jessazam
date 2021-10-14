@@ -9,9 +9,7 @@
 - MEAN Stack
 
 <p>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-  </a>
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/angular.svg" alt="angular" width="96" height="30">
 
   <a href="#">
       <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
