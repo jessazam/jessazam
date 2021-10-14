@@ -10,7 +10,7 @@
 
 <p>
   <img src="https://github.com/jessazam/jessazam/blob/main/icons/angular.svg" alt="angular" width="96" height="30">
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/nodejs.svg" alt="nodejs" width="96" height="30">  
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/nodejs.svg" alt="nodejs" width="96" height="28">  
 </p>
 
 
@@ -25,7 +25,7 @@
 
   <img src="https://github.com/jessazam/jessazam/blob/main/icons/bootstrap.svg" alt="bootstrap" width="96" height="30">
 
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/java.svg" alt="java" width="96" height="20">
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/java.svg" alt="java" width="96" height="26">
   
   <img src="https://github.com/jessazam/jessazam/blob/main/icons/visualstudio_code.svg" alt="vscode" width="96" height="50">
   
