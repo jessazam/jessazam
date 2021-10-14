@@ -19,7 +19,7 @@
 <p>
   <img src="https://github.com/jessazam/jessazam/blob/main/icons/html.svg" alt="html" width="96" height="20">
   
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/css3.svg" alt="css3" width="96" height="20">
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/css3.svg" alt="css3" width="106" height="20">
   
   <img src="https://github.com/jessazam/jessazam/blob/main/icons/js.svg" alt="js" width="96" height="30">
 
