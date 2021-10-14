@@ -5,43 +5,29 @@
 
 --- 
 
-#### 🌱 NOW Learning :
+#### 🌱 NOW learning :
 - MEAN Stack
 
 <p>
   <img src="https://github.com/jessazam/jessazam/blob/main/icons/angular.svg" alt="angular" width="96" height="30">
-
-  <a href="#">
-      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-  </a>  
-  
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/nodejs.svg" alt="nodejs" width="96" height="30">  
 </p>
 
 
 #### 🚧 I build with...
 
 <p>
-    <img src="https://github.com/jessazam/jessazam/blob/main/icons/angular.svg" alt="angular" width="120" hight="50">
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/html.svg" alt="html" width="96" height="30">
   
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-  </a>
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/css3.svg" alt="css3" width="96" height="30">
   
- <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  </a>
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/js.svg" alt="js" width="96" height="30">
 
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  </a>
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/bootstrap.svg" alt="bootstrap" width="96" height="30">
 
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  </a>
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/java.svg" alt="java" width="96" height="30">
   
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:4px">
-  </a>
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/visualstudio_code.svg" alt="vscode" width="96" height="30">
   
 </p>
 
