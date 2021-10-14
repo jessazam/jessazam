@@ -25,9 +25,9 @@
 
   <img src="https://github.com/jessazam/jessazam/blob/main/icons/bootstrap.svg" alt="bootstrap" width="96" height="30">
 
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/java.svg" alt="java" width="96" height="26">
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/java.svg" alt="java" width="96" height="28">
   
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/visualstudio_code.svg" alt="vscode" width="96" height="50">
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/visualstudio_code.svg" alt="vscode" width="96" height="80">
   
 </p>
 
