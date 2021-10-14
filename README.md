@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-#### I'm Jessica, a Junior Fron-End Developer in Colombia.
-
-I’m looking to collaborate on front-end tech for fullstack projects
-
+#### I'm Jessica, a Junior Front-End Developer in Colombia looking to collaborate on front-end tech for fullstack projects
 
 
 --- 
