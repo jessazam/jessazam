@@ -23,7 +23,7 @@ I’m looking to collaborate on front-end tech for fullstack projects
 </p>
 
 
-### 🚧 I build with...
+#### 🚧 I build with...
 
 <p>
   <a href="#">
@@ -56,7 +56,7 @@ I’m looking to collaborate on front-end tech for fullstack projects
 
 ---
 
-### - When I'm not learning I like...
+#### - When I'm not learning I like...
 - ⚡️  Swimming 
 - ⚡️  Watching all sorts of media (Armchair film and tv-show expert!)
 - ⚡️  Reading Light Novels and Sci-Fi
