@@ -9,8 +9,8 @@
 - MEAN Stack
 
 <p>
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/angular.svg" alt="angular" height=30" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/nodejs.svg" alt="nodejs" height=30" style="vertical-align:top; margin:4px">  
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/angular.svg" alt="angular" height=25" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/nodejs.svg" alt="nodejs" height=25" style="vertical-align:top; margin:4px">  
 </p>
 
 
