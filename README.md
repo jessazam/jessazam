@@ -17,17 +17,17 @@
 #### 🚧 I build with...
 
 <p>
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/html.svg" alt="html" width="96" height="30">
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/html.svg" alt="html" width="96" height="20">
   
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/css3.svg" alt="css3" width="96" height="30">
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/css3.svg" alt="css3" width="96" height="20">
   
   <img src="https://github.com/jessazam/jessazam/blob/main/icons/js.svg" alt="js" width="96" height="30">
 
   <img src="https://github.com/jessazam/jessazam/blob/main/icons/bootstrap.svg" alt="bootstrap" width="96" height="30">
 
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/java.svg" alt="java" width="96" height="30">
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/java.svg" alt="java" width="96" height="20">
   
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/visualstudio_code.svg" alt="vscode" width="96" height="30">
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/visualstudio_code.svg" alt="vscode" width="96" height="50">
   
 </p>
 
