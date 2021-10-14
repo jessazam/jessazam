@@ -46,7 +46,7 @@ I’m currently working on Front-end projects for small businesses. I’m lookin
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
   </a>
   
-    <a href="#">
+  <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:4px">
   </a>
   
