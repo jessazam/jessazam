@@ -23,9 +23,7 @@
 #### 🚧 I build with...
 
 <p>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/6f9a9537c12cccd375436a59df526f5ecaa46c42/Resources/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  </a>
+    <img src="https://github.com/jessazam/jessazam/blob/main/icons/angular.svg" alt="angular" width="120" hight="50">
   
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
