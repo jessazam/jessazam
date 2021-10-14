@@ -8,7 +8,7 @@ I’m currently working on Front-end projects for small businesses. I’m lookin
 
 --- 
 
-#####🌱 NOW Learning :
+#### 🌱 NOW Learning :
 - MEAN Stack
 
 <p>
