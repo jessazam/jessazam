@@ -10,7 +10,7 @@
 
 <p>
   <img src="https://github.com/jessazam/jessazam/blob/main/icons/angular.svg" alt="angular" width="96" height="30">
-  <img src="https://github.com/jessazam/jessazam/blob/main/icons/nodejs.svg" alt="nodejs" width="96" height="27">  
+  <img src="https://github.com/jessazam/jessazam/blob/main/icons/nodejs.svg" alt="nodejs" width="96" height="26">  
 </p>
 
 
