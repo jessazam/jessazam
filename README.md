@@ -8,8 +8,8 @@ I’m currently working on Front-end projects for small businesses. I’m lookin
 
 --- 
 
-##### NOW Learning :
-- 🌱  MEAN Stack
+#####🌱 NOW Learning :
+- MEAN Stack
 
 <p>
   <a href="#">
