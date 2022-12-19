@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Jessica, a Junior Front-End Developer looking to collaborate on Web-Dev projects
+#### I'm Jessica, a Dev-learner looking to collaborate on Web-Dev projects
 
 
 --- 
